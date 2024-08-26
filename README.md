@@ -1,2 +1,2 @@
 # museum_painting
-Data analysis using SQL Big Query
+Database used -  Big Query
